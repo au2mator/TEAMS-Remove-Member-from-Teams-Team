@@ -11,7 +11,7 @@ Remove a Member from a Microsoft Teams Team with Graph API and au2mator - Self S
 
 
 # Demo
-![Demo](/Demo/RemoveMemberFromTeams-GithubDemo.gif)
+![Demo](/Demo/M365_RemoveMemberFromTeams.gif)
 
 # Getting Started
 
